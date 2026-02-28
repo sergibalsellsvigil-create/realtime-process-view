@@ -1,8 +1,8 @@
 """
-Model de Processos GNU/Linux INTERACTIU TEMPS REAL + Modbus RTU Server
+Model de Processos GNU/Linux INTERACTIU TEMPS REAL + Modbus TCP server
 Autor: Sergi Balsells
 Data: 19/02/2026 
-Objectiu: Gràf INTERACTIU PPID→PID + Anàlisi jeràrquica + Temps real + RTU
+Objectiu: Gràf INTERACTIU PPID→PID + Anàlisi jeràrquica + Temps real + TCP
 """
 
 import subprocess
